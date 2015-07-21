@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="https://github.com"
+           review="http://172.16.1.12:8080" />
+
+       <project path="pebble-examples/feature-focus-handler" name="feature-focus-handler" groups="pdk,tradefed" remote="github" revision="master" />
+   </manifest>
