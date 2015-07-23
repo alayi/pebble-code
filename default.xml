@@ -75,4 +75,8 @@
        <project path="app-mockup-helper" name="pebble-examples/app-mockup-helper" groups="pebble" remote="github" revision="master" />
        <project path="app-font-viewer" name="pebble-examples/app-font-viewer" groups="pebble" remote="github" revision="master" />
        <project path="pebble-js-tutorial" name="pebble-examples/pebble-js-tutorial" groups="pebble" remote="github" revision="master" />
+
+
+       <!-- https://github.com/pebble/... -->
+       <project path="pebble-sdk-examples" name="pebble/pebble-sdk-examples" groups="pebble" remote="github" revision="master" />
    </manifest>
